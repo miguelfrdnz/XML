@@ -1,2 +1,0 @@
-# XML
-Ejercicios de xml
