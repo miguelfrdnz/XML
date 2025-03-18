@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8?">
+<librosLectura>
+    <libro titulo="Gris">
+    <autor>Carlos Sisí</autor>
+    <fecha>2024</fecha>
+    <libro titulo="El museo">
+    <autor>Owen Kign</autor>
+    <fecha>2024</fecha>
+    <libro titulo="Vagabundos">
+    <autor>Hao Jingfang</autor>
+    <fecha>2020</fecha>
+    </librosLectura>
